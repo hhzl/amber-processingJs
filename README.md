@@ -1,7 +1,9 @@
 Amber-ProcessingJs
-=====
+==================
 
 By Sebastian Heidbrink
+
+Fork by Hannes Hirzel, [http://hhzl.github.io/amber-processingJs](http://hhzl.github.io/amber-processingJs)
 
 Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It is designed to make client-side development faster and easier.
 This Project enhances Amber by an interface layer to ProcessingJs. This shall make it easier to enhance Amber applications with data visualization capabilities.
